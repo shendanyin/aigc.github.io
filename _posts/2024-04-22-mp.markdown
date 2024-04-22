@@ -1,0 +1,10 @@
+---
+title: "荃的第一个网站"
+layout: post
+author: "Daniel"
+published: false
+header-style: text
+tags:
+  - CS Idols
+---
+选择家里任一小爱音箱创建一条智能，选择“手动控制”选项（小爱闹钟除外） 
